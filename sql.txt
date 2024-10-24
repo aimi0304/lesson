@@ -1,0 +1,5 @@
+select column from table where id = 1;
+update table set column = atai;
+delete from table where column = atai;
+insert into table (column, id) values (atai2, 2);
+ 
